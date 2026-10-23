@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or the CiteResolve benchmark, please cite the paper."
+title: "CiteANCHOR: code"
+authors:
+  - family-names: Tong
+    given-names: Chenyi
+  - family-names: Nie
+    given-names: Ping
+  - family-names: Zhang
+    given-names: Yu
+license: MIT
+repository-code: "https://github.com/oldwizard7/CiteANCHOR_code"
+url: "https://oldwizard7.github.io/CiteANCHOR_website/"
+preferred-citation:
+  type: generic
+  title: "CiteAnchor: Source-Aware Grounding for Hallucinated Citation Detection and Resolution"
+  authors:
+    - family-names: Tong
+      given-names: Chenyi
+    - family-names: Nie
+      given-names: Ping
+    - family-names: Zhang
+      given-names: Yu
+  year: 2026
+  url: "https://arxiv.org/abs/2610.30355"
+  identifiers:
+    - type: other
+      value: "arXiv:2610.30355"
+      description: "arXiv identifier"
